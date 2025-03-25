@@ -3,6 +3,10 @@
 
 - 🔭 **Master's in Data Science, Christ University**
 
+- 🔍 Passionate about Data Science, Analytics, and Business Intelligence.
+
+- 💡 Skilled in Python, SQL, Power BI, and Machine Learning.
+
 - 💻 Check out my portfolio **[Charan N](https://charan-n.my.canva.site/)**
 
 - 👯 I’m looking to collaborate on **[LinkedIn](https://www.linkedin.com/in/charan4140/)**
