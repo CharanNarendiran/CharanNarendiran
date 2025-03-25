@@ -3,6 +3,8 @@
 
 - 🔭 **Master's in Data Science, Christ University**
 
+- 💻 Check out my portfolio **[Charan N](https://charan-n.my.canva.site/)**
+
 - 👯 I’m looking to collaborate on **[LinkedIn](https://www.linkedin.com/in/charan4140/)**
 
 <!-- - 👨‍💻 Visit my Mentoring Website **[https://topmate.io/jai_niresh_j](https://topmate.io/jai_niresh_j)** -->
