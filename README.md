@@ -113,9 +113,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CharanNarendiran&show_icons=true&locale=en&layout=compact" alt="CharanNarendiran" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CharanNarendiran&show_icons=true&locale=en" alt="CharanNarendiran" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CharanNarendiran&" alt="CharanNarendiran" /></p>
+
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jainiresh&show_icons=true&locale=en&layout=compact" alt="jainiresh" /></p>
 
