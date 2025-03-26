@@ -91,6 +91,9 @@
     </a> <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" alt="Power BI" width="50" height="50"/>
 </a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/svg/excel.svg" alt="Excel" width="50" height="50"/>
+</a>
 
 
 </p>
