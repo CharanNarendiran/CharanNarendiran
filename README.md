@@ -88,7 +88,11 @@
     </a>
     <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="premierepro" width="50" height="50"/>
-    </a>
+    </a> <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" alt="Power BI" width="50" height="50"/>
+</a>
+
+
 </p>
 
 <!-- <h3 align="left">Articles and Blogs:</h3>
