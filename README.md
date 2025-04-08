@@ -5,7 +5,7 @@
 
 - 🔍 Passionate about Data Science, Analytics, and Business Intelligence.
 
-- 💡 Skilled in Python, SQL, Power BI, and Machine Learning.
+- 💡 Skilled in SQL, Power BI, Python and Machine Learning.
 
 - 💻 Check out my portfolio **[Charan N](https://charan-n.my.canva.site/)**
 
