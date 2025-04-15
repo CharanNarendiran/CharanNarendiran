@@ -77,7 +77,7 @@
     <a href="https://www.apple.com/safari/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/safari/safari-original.svg" alt="safari" width="50" height="50"/>
     </a>
-<!--    <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+    <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="50" height="50"/>
     </a>
 <!--    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
