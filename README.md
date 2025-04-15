@@ -80,7 +80,7 @@
     <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="50" height="50"/>
     </a>
-<!--    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="50" height="50"/>
     </a>
         <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
